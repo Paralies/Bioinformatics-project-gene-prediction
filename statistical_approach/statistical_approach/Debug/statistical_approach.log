@@ -1,0 +1,10 @@
+﻿  HMM.cpp
+  read_file.cpp
+C:\12C\University\Lectures\바이오인포매틱스알고리즘\Bioinformatics-project-gene-prediction\statistical_approach\statistical_approach\read_file.cpp(69,18): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  viterbi.cpp
+C:\12C\University\Lectures\바이오인포매틱스알고리즘\Bioinformatics-project-gene-prediction\statistical_approach\statistical_approach\read_file.cpp(69,18): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\12C\University\Lectures\바이오인포매틱스알고리즘\Bioinformatics-project-gene-prediction\statistical_approach\statistical_approach\viterbi.cpp(19,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\12C\University\Lectures\바이오인포매틱스알고리즘\Bioinformatics-project-gene-prediction\statistical_approach\statistical_approach\viterbi.cpp(65,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\12C\University\Lectures\바이오인포매틱스알고리즘\Bioinformatics-project-gene-prediction\statistical_approach\statistical_approach\viterbi.cpp(75,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다...
+  statistical_approach.vcxproj -> C:\12C\University\Lectures\바이오인포매틱스알고리즘\Bioinformatics-project-gene-prediction\statistical_approach\Debug\statistical_approach.exe
