@@ -1,1 +1,3 @@
-# Bioinformatics-project-gene-prediction
+# Bioinformatics project gene prediction
+
+## 실행방법
